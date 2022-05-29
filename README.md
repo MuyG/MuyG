@@ -44,7 +44,7 @@ See [my website](https://shilohr.com/) for more information!
         <p><strong>HTML, CSS, JavaScript</strong> - Online typing test using a Bob Ross sentence generator.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center"></h3>
         <br />
       <a target="_blank" href="#">
             <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
