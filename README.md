@@ -41,41 +41,41 @@ See [my website](https://shilohr.com/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=105652&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript</strong> - Online typing test using a Bob Ross sentence generator.</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Online typing test using a Bob Ross sentence generator.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="#">
             <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=B91646&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=105652&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - </p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">Shilohr.com</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="https://shilohr.com/">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="https://github.com/MuyG/Shilohr" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=B91646&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
+  <a href="https://shilohr.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=105652&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -97,7 +97,7 @@ See [my website](https://shilohr.com/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=105652&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Do you suffer from a messy desktop? Applications, folders, and shortcuts everywhere? Check this out! A tool that creates a neat desktop background to organize your mess. HINT: Get the 'GoFullPage' chrome extension to easily take a full page screenshot.</p>
     </td>
   </tr>
 </table>
