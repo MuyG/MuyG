@@ -29,7 +29,7 @@ See [my website](https://shilohr.com/) for more information!
       <h3 align="center">Country Info Travel App</h3>
         <br />
       <a target="_blank" href="https://shilohscountryinfo.netlify.app/">
-            <img src="https://imgur.com/gallery/CVyuWbX.png" width="100%"  alt="Country App"/>
+            <img src="https://imgur.com/SCBu5XM.png" width="100%"  alt="Country App"/>
         </a>
         <br />
         <p align="center">
