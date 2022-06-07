@@ -68,7 +68,7 @@ See [my website](https://shilohr.com/) for more information!
       <h3 align="center">Shilohr.com</h3>
       <br />
         <a target="_blank" href="https://shilohr.com/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="https://imgur.com/WHliSVv.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
