@@ -82,15 +82,15 @@ See [my website](https://shilohr.com/) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Desktop Organizing Background Tool</h3>
+      <h3 align="center">Desktop Background Organizer</h3>
         <br />
-        <a target="_blank" href="#">
-          <img src="#" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://desktoporganizingbackgroundtool.netlify.app/">
+          <img src="https://imgur.com/YENwWly.png" width="100%" alt="desktop background tool screenshot"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/MuyG/desktopOrganizingBackgroundTool" target="_blank">
+  <a href="https://github.com/MuyG/Desktop-Background-Organizer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=B91646&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://desktoporganizingbackgroundtool.netlify.app/" target="_blank">
