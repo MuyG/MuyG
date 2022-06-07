@@ -47,7 +47,7 @@ See [my website](https://shilohr.com/) for more information!
       <h3 align="center">Bob Ross Typing Test</h3>
         <br />
         <a target="_blank" href="https://bobrosstypingtest.netlify.app/">
-            <img src="https://imgur.com/a/x4VQYck.jpg" width="100%" alt="Bob Ross Typing Test Screenshot"/>
+            <img src="https://imgur.com/6zDSPnJ.jpg" width="100%" alt="Bob Ross Typing Test Screenshot"/>
         </a>
         <br />
         <p align="center">
