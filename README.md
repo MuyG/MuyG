@@ -26,10 +26,29 @@ See [my website](https://shilohr.com/) for more information!
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Country Info Travel App</h3>
+        <br />
+      <a target="_blank" href="https://shilohscountryinfo.netlify.app/">
+            <img src="https://imgur.com/gallery/CVyuWbX.png" width="100%"  alt="Country App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/MuyG/Country-Info-App" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=B91646&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://shilohscountryinfo.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=105652&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript, OOP, REST Countries API, Google Maps API, Unsplash API</strong> - This web application takes in any country in the world and gives you basic information about it. Are you interested in travelling? Find the prominant languages, currency, timezone, and much more using this stylish web app.</p>
+    </td>
+    
+    <td width="50%" valign="top">
       <h3 align="center">Bob Ross Typing Test</h3>
         <br />
         <a target="_blank" href="https://bobrosstypingtest.netlify.app/">
-            <img src="#" width="100%" alt="Travel App"/>
+            <img src="#" width="100%" alt="Bob Ross Typing Test Screenshot"/>
         </a>
         <br />
         <p align="center">
@@ -41,25 +60,7 @@ See [my website](https://shilohr.com/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=105652&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Online typing test using a Bob Ross sentence generator.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"></h3>
-        <br />
-      <a target="_blank" href="#">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=B91646&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=105652&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - </p>
+        <p><strong>HTML, CSS, JavaScript, OOP</strong> - Online typing test using a Bob Ross sentence generator.</p>
     </td>
   </tr>
   
