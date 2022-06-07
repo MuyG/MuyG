@@ -24,26 +24,7 @@ See [my website](https://shilohr.com/) for more information!
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Country Info Travel App</h3>
-        <br />
-      <a target="_blank" href="https://shilohscountryinfo.netlify.app/">
-            <img src="https://imgur.com/SCBu5XM.png" width="100%"  alt="Country App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/MuyG/Country-Info-App" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=B91646&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://shilohscountryinfo.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=105652&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, JavaScript, OOP, REST Countries API, Google Maps API, Unsplash API</strong> - This web application takes in any country in the world and gives you basic information about it. Are you interested in travelling? Find the prominant languages, currency, timezone, and much more using this stylish web app.</p>
-    </td>
-    
+  <tr> 
     <td width="50%" valign="top">
       <h3 align="center">Bob Ross Typing Test</h3>
         <br />
@@ -61,6 +42,24 @@ See [my website](https://shilohr.com/) for more information!
   </a>
       </p>
         <p><strong>HTML, CSS, JavaScript, OOP</strong> - Online typing test using a Bob Ross sentence generator.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Country Info Travel App</h3>
+        <br />
+      <a target="_blank" href="https://shilohscountryinfo.netlify.app/">
+            <img src="https://imgur.com/SCBu5XM.png" width="100%"  alt="Country App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/MuyG/Country-Info-App" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=B91646&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://shilohscountryinfo.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=105652&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript, OOP, REST Countries API, Google Maps API, Unsplash API</strong> - This web application takes in any country in the world and gives you basic information about it. Are you interested in travelling? Find the prominant languages, currency, timezone, and much more using this stylish web app.</p>
     </td>
   </tr>
   
